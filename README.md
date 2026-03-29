@@ -3,6 +3,6 @@ We  created this repository in order to fully compile all the different workspac
 
 # All the files have been re-uploaded by Rushil, the group worked on each and every file, but delegated him to re-upload. Full constructed app can be found [here](https://drive.google.com/drive/folders/17wqE6RFeqJRcI_9V5w_D-dV4eKjVjeoH?usp=drive_link)    
 
-# Incase the video did not work here is the [youtube](https://www.youtube.com/@SynapseMatch)
+# Incase the video did not work here is the [youtube](https://youtu.be/FlFEdtWkuCA?si=sLiDhn7UXuCZH90z)
 
 
